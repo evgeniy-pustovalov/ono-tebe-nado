@@ -23,8 +23,7 @@
 }
 
 .header__link {
-    text-decoration: none; 
-
+    text-decoration: none;
 }
 
 .header__link_active {
@@ -216,7 +215,6 @@
     padding-top: 29px;
     text-underline-position: under;
     letter-spacing: 0.4px;
-
 }
 
 .about__column {

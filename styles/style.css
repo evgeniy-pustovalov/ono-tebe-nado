@@ -85,14 +85,14 @@
 
 .aligned-text {
     display: block;
-}    
+}
 
 .aligned-text_center {
     text-align: center;
     line-height: 100%;
     padding-top: 14px;
     padding-left: 10px;
-}    
+}
 
 .letter-spacing-extended {
     letter-spacing: 0.6em;

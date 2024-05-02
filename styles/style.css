@@ -85,7 +85,6 @@
 
 .aligned-text {
     display: block;
-
 }
 
 .aligned-text_center {
@@ -93,7 +92,6 @@
     line-height: 100%;
     padding-top: 14px;
     padding-left: 10px;
-
 }
 
 .letter-spacing-extended {
@@ -276,7 +274,7 @@
 
 .footer__menu-list-item {
     list-style: none;
-    text-underline-position: under; 
+    text-underline-position: under;
 }
 
 .footer__menu-link_active {

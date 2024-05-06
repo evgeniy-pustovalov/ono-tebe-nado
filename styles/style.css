@@ -2,7 +2,7 @@
     display: grid;
     justify-content: space-between;
     padding-top: 22px;
-    padding-bottom: 93px;
+    padding-bottom: 4px;
     font-size: 18px;
     width: 100%;
     padding-left: 24px;
@@ -52,10 +52,11 @@
     line-height: 135%;
     padding-left: 52px;
     font-style: normal;
+    padding-bottom: 88px;
 }
 
 .header__address {
-    margin: 77px 93px 2px auto;
+    margin: 77px 89px 2px auto;
 }
 
 .overlay {
@@ -75,7 +76,7 @@
 }
 
 .cover__title {
-    padding: 172px 50px 132px;
+    padding: 171px 50px 132px;
     color: rgba(255, 255, 255, 1);
     text-transform: uppercase;
     letter-spacing: 0.3em;
@@ -113,7 +114,7 @@
     justify-content: space-between;
     padding-left: 79px;
     padding-right: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 52px;
 }
 
 .cover__description-text {
@@ -241,7 +242,7 @@
     font-weight: 700;
     font-size: 40px;
     text-transform: uppercase;
-    padding-top: 103px;
+    padding-top: 107px;
     padding-bottom: 100px;
 }
 
